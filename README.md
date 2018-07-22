@@ -1,9 +1,9 @@
 # Fashion-Boltzmann
-##Bonjour à tous!
+## Bonjour à tous!
 
 ![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic.jpg)
 
-##what I have done
+## what I have done
 - This is a practice of Dataset Fashion MNIST.At present, I just finished two files.
 
 - **load.py :** to load dataset that you can download from web www.kaggle.com.
@@ -23,10 +23,10 @@ I expect to accomplish it just use low-level TensorFlow APIs.
 later,the BLAS(Basic Linear Algebra Subprograms) if I could.
 GOD BLESS ME!
 
-##What's the preparation
+## What's the preparation
 Before running,you should make sure that:
 numpy       is installed
 matplotlib  is installed
 tensorflow  is installed
 
-##Merci~!
+## Merci~!

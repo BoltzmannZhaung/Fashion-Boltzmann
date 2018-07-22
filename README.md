@@ -6,7 +6,7 @@
 ## what I have done
 This is a practice of Dataset Fashion MNIST.At present, I just finished two files.
 
-- **load.py :** to load dataset that you can download from web www.kaggle.com.<br>
+- **load.py :** to load dataset that you can download from web https://www.kaggle.com/c/ml1718-fashion-mnist/data.<br>
 And Fashion-MNIST is consist of four .gz package.
 ```latex
 train-images-idx3-ubyte.gz

@@ -1,6 +1,8 @@
 # Fashion-Boltzmann
 Bonjour à tous!
 
+![Image crashed]https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic.jpg
+
 This is a practice of Dataset Fashion MNIST.At present, I just finished two files.
   load.py : to load dataset that you can download from web www.kaggle.com.
             And Fashion-MNIST is consist of four .gz package.

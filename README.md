@@ -33,10 +33,10 @@ Before running,you should make sure that:<br>
 ## Date Jul 28, 2018
 ## A little Interlude
 It will be to your benefit to understand how a **filter** or **kernel**(aka **feature detector**) slide over an image and compute the dot product.
-In my job,an image given like this:
-![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic2.png)
-To form a matrix(also a image) is called the **Convolved Feature** or **Activation Map** or the **Feature Map** like this:
-![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic3.png)
+In my job,an image given like this:<br>
+![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic2.png)<br>
+To form a matrix(also a image) is called the **Convolved Feature** or **Activation Map** or the **Feature Map** like this:<br>
+![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic3.png)<br>
 ENJOY IT !
 
 ## Merci~!

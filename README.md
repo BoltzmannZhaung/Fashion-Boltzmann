@@ -41,7 +41,7 @@ the filter or kernel to form a matrix(also an image) is called the **Convolved F
 as follow where there is a light region right down in the middle:<br>
 ![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic3.png)<br>
 Actually,this light region corresponds to having detected the vertical edge.
-ENJOY IT 
+ENJOY IT<br>
 RUN **convolve.py** 
 
 ## Date Jul 30, 2018

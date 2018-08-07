@@ -1,4 +1,5 @@
 # Fashion-Boltzmann
+![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/logo5.png)
 ## Bonjour à tous!
 
 ![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic.jpg)
@@ -40,6 +41,9 @@ the filter or kernel to form a matrix(also an image) is called the **Convolved F
 as follow where there is a light region right down in the middle:<br>
 ![Image crashed](https://raw.githubusercontent.com/BoltzmannZhaung/Fashion-Boltzmann/master/img/pic3.png)<br>
 Actually,this light region corresponds to having detected the vertical edge.
-ENJOY IT !
+ENJOY IT 
+RUN **convolve.py** 
 
+## Date Jul 30, 2018
+Run **conv_demo.py** to train a CNN.
 ## Merci~!
